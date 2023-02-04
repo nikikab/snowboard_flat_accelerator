@@ -16,4 +16,3 @@
 ## Assembly
 - [Alomejor RC Steering Assembly Upgrade Parts Kit High Strength Aluminium Alloy Suspension Arm for ZD Racing 10 1:10](https://www.amazon.de/-/en/Alomejor-Steering-Assembly-Aluminium-Suspension/dp/B0BJQ9J1NR/ref=sr_1_4?crid=3QSLECG0Y2SAN&keywords=RC%2BQuerlenker&qid=1675195198&s=toys&sprefix=rc%2Bsuspension%2Barm%2Ctoys%2C98&sr=1-4&th=1) ![Wheel Seat Fit](./to_buy_images/arms_assembly.jpg)
 ## battery
-- [AccuCell Battery Holder for 10x mignon AA LR6 Battery](https://www.amazon.de/-/en/AccuCell-Battery-Holder-mignon-LR6-Battery/dp/B001OWJ8B0/ref=sr_1_12?crid=17CCWNU51A5NL&keywords=10+aa+batteriehalter&qid=1675281169&s=ce-de&sprefix=10+aa+battery+holder%2Celectronics%2C104&sr=1-12) ![Wheel Seat Fit](./to_buy_images/10aa_batteryholder.jpg)
