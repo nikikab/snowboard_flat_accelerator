@@ -11,4 +11,4 @@
 - Alloy Left Right RC Car Remote Controlled Toy Car Replacement Part Compatible with Wltoys 1/14 144001 1440…](https://www.amazon.de/-/en/gp/product/B0B5QSTMTX/ref=ox_sc_act_title_2?smid=A3UXNW85YX9QTH&psc=1)
 - [RC Wheel Hex Adapter, 12 mm 1/10 RC Car Truck Wheel Hex Adapter + Non-Slip Nut + Screw + Cross Key RC Model Toy Part (Red)](https://www.amazon.de/-/en/gp/product/B097C5C4CQ/ref=ox_sc_act_title_3?smid=A53Z8DEN51H5A&psc=1)
 - [TeamSky RC CVD Drive Shaft, RC Dog Bone Drive Shaft Upgrade Part Metal with Joint Cup Dog Bone for WLtoys 144001 RC Car](https://www.amazon.de/-/en/gp/product/B0B7HR7RPS/ref=ox_sc_act_title_4?smid=A3F1Q6EJI2C8K1&psc=1) 
-- 
+- [Perfeclan Sand Snow Desert Tyre Desert Wheels with Paddle Tyres for 144001 124019 12428 104001 1//14 1/16 RC Buggy Truck DIY Modification](https://www.amazon.de/-/en/gp/product/B0B7B4FBD1/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
