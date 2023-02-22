@@ -20,3 +20,4 @@
 ## Assembly
 - [Alomejor RC Steering Assembly Upgrade Parts Kit High Strength Aluminium Alloy Suspension Arm for ZD Racing 10 1:10](https://www.amazon.de/-/en/Alomejor-Steering-Assembly-Aluminium-Suspension/dp/B0BJQ9J1NR/ref=sr_1_4?crid=3QSLECG0Y2SAN&keywords=RC%2BQuerlenker&qid=1675195198&s=toys&sprefix=rc%2Bsuspension%2Barm%2Ctoys%2C98&sr=1-4&th=1) ![Wheel Seat Fit](./to_buy_images/arms_assembly.jpg)
 ## battery
+- [Eleoption DC12300 Super Battery for Camera DC 12V 3000mAh Li-ion Rechargeable Battery with Lid](https://www.amazon.de/-/en/Eleoption-DC12300-Battery-3000mAh-Rechargeable/dp/B06ZYQPK3P/ref=sr_1_2?crid=URQV2UCFZNDX&keywords=3000mah+12v+wiederaufladbar&qid=1677071068&sprefix=3000+mah+12v+rechargable+%2Caps%2C99&sr=8-2) ![DC 12V 3000mAh Li-ion Rechargeable Battery](./to_buy_images/DC_12V_3000mAh_Li-ion_Rechargeable_Battery.jpg)
