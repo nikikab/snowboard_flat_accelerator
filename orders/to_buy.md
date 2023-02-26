@@ -21,3 +21,7 @@
 - [Alomejor RC Steering Assembly Upgrade Parts Kit High Strength Aluminium Alloy Suspension Arm for ZD Racing 10 1:10](https://www.amazon.de/-/en/Alomejor-Steering-Assembly-Aluminium-Suspension/dp/B0BJQ9J1NR/ref=sr_1_4?crid=3QSLECG0Y2SAN&keywords=RC%2BQuerlenker&qid=1675195198&s=toys&sprefix=rc%2Bsuspension%2Barm%2Ctoys%2C98&sr=1-4&th=1) ![Wheel Seat Fit](./to_buy_images/arms_assembly.jpg)
 ## battery
 - [Eleoption DC12300 Super Battery for Camera DC 12V 3000mAh Li-ion Rechargeable Battery with Lid](https://www.amazon.de/-/en/Eleoption-DC12300-Battery-3000mAh-Rechargeable/dp/B06ZYQPK3P/ref=sr_1_2?crid=URQV2UCFZNDX&keywords=3000mah+12v+wiederaufladbar&qid=1677071068&sprefix=3000+mah+12v+rechargable+%2Caps%2C99&sr=8-2) ![DC 12V 3000mAh Li-ion Rechargeable Battery](./to_buy_images/DC_12V_3000mAh_Li-ion_Rechargeable_Battery.jpg)
+## Основа
+- [Carbon fibre board, twill carbon fibre board material with high hardness and glossy surface (200 x 300 x 1.0 mm)](https://www.amazon.de/dp/B083ZRQLNF?ref_=cm_sw_r_apan_dp_HBHX90ETJHW19V3WZVY1&fbclid=IwAR0O5pLLIiGmi42gHf-ZtnPQNI_P8QYuEx_iy53yzawc8TTL5otweClLSXs) ![carbon fibler sheet](./to_buy_images/carbon_sheet.jpg)
+## Болтове
+- [Icetools MOUNTING Screw 18 mm](https://www.amazon.de/-/en/Icetools-Snow-Board-Replacement-Screws/dp/B01LWSXUTU/ref=sr_1_9?crid=3GJDBN0XR9NWM&keywords=snowboard%2Bbindungen%2Bschrauben&qid=1677444349&sprefix=snowboard%2Bscrews%2Caps%2C193&sr=8-9&th=1&psc=1) ![18mm_bolts.jpg](./to_buy_images/18mm_bolts.jpg)
